@@ -1,0 +1,5 @@
+# Add project dependencies
+openai
+# OpenAI Agents SDK (if available via pip, e.g., openai-agents-sdk)
+python-dotenv
+requests

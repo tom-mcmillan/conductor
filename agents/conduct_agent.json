@@ -1,0 +1,5 @@
+{
+  "name": "conduct-agent",
+  "description": "Defines the conductor agent behavior for delegating tasks",
+  "tasks": []
+}
